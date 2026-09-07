@@ -54,6 +54,12 @@ This learner:
 
 Findings must therefore not automatically be generalized to every beginner.
 
+## Evidence records
+
+- `CASE_001_INITIAL_FOIBLES_CHALLENGES_SHENANIGANS_TRACE_2026-09-06.md` — mixed retrospective and same-day capture of early learning problems, recoveries, tool surprises, governance failures, and candidate lessons.
+
+Future records should favor prospective capture when a learning event is significant enough to justify preservation.
+
 ## Current rule
 
 Observe first.
