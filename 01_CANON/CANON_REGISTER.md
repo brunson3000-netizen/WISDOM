@@ -37,3 +37,20 @@ W.I.S.D.O.M. classifies research, brainstorming, design claims, and candidate pr
 Brainstorming is noncanonical by default.
 
 Only an explicit Operator decision promotes material into Canon. Repetition, implementation, repository placement, successful testing, or agent confidence are not substitutes for adoption.
+
+## C-006 — Explicit elevation confirmation
+
+When the Operator explicitly requests elevation of material between W.I.S.D.O.M. status categories, the coordinator must first present a concise promotion summary covering:
+
+- what is being promoted;
+- current and target status;
+- what survived falsification or supports the promotion;
+- what was rejected or contradicted;
+- unresolved risks;
+- the exact scope proposed for promotion.
+
+The status change occurs only after explicit Operator confirmation.
+
+This does not revoke the coordinator's standing ability under C-005 to classify ordinary brainstorming as Theory or Provisional. It applies when an elevation is explicitly being considered or requested.
+
+Silence is not a substitute for confirmation.

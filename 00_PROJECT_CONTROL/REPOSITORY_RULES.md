@@ -65,3 +65,22 @@ Brainstorming defaults to noncanonical status.
 Movement into Canon requires an explicit Operator decision. Repetition, detailed discussion, repository placement, implementation, successful testing, or agent confidence do not independently create canonicity.
 
 During brainstorming, useful ideas should be challenged, falsified where possible, and classified according to the strongest status the evidence actually supports.
+
+## 10. Explicit elevation confirmation
+
+When the Operator explicitly requests that material be elevated between W.I.S.D.O.M. status categories, the coordinator must present a promotion summary before changing the status.
+
+The summary must state, at minimum:
+
+- the material being considered;
+- current and proposed status;
+- the strongest surviving rationale or evidence;
+- material objections, failed assumptions, or rejected alternatives;
+- unresolved risks or uncertainties;
+- the exact scope of what would be promoted.
+
+The Operator then explicitly confirms or declines the elevation.
+
+This rule does not revoke the coordinator's existing authority to sort ordinary brainstorming into Theory or Provisional during routine research. It governs explicit elevation requests and higher-status promotion decisions.
+
+Silence, repetition, implementation, repository placement, or previous enthusiasm do not substitute for the required confirmation.

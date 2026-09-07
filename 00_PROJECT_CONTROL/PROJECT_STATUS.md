@@ -40,3 +40,31 @@ Provisional curriculum outcome:
 - comparable tasks and explicit observation are required before architectural differences can be attributed to the additional agents.
 
 No classroom sequence, exercise, or multi-agent architecture in this closeout is Canon.
+
+## Latest closeout — pedagogy, callouts, learner autonomy, and cultural research
+
+The 2026-09-06 pedagogy/callout brainstorming pass has been classified and closed into the repository.
+
+Canonical addition:
+
+- explicit elevation requests now require a coordinator promotion summary followed by explicit Operator confirmation.
+
+Probational material:
+
+- the minimal recurring callout framework;
+- learner-autonomy primacy as an instructional operating principle.
+
+Provisional material:
+
+- the research-backed educational backbone;
+- embedded, low/no-pressure evidence gathering;
+- the optional-exam concept, demoted from Probational pending further analysis;
+- discipline/structure in service of learner freedom as a constitutional direction pending later constitutional work.
+
+Theory / parked:
+
+- P.A.L. gamification;
+- S.W.A.R.M. bee/agent visual language;
+- S.W.A.R.M. cultural "virtue injection" mechanisms.
+
+No mission statement or project Constitution was created by this closeout.
