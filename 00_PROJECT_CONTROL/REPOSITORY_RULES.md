@@ -50,3 +50,18 @@ When material enters from another project, research thread, experiment, or exter
 A local commit records repository history.
 
 It does not imply remote publication, deployment, canonical promotion outside W.I.S.D.O.M., or authority over another project.
+
+## 9. Research and design status lifecycle
+
+W.I.S.D.O.M. uses four explicit status categories for research, brainstorming, design claims, and candidate project direction:
+
+- **Theory** — an explanatory idea, hypothesis, or conceptual possibility that has not yet survived enough challenge to be preserved as a project candidate.
+- **Provisional** — a candidate that has survived meaningful initial challenge well enough to preserve, but remains unproven, unresolved, or subject to change.
+- **Probational** — a candidate deliberately placed into use, trial, or structured observation so evidence can be gathered about whether it should survive.
+- **Canon** — direction explicitly adopted by the Operator.
+
+Brainstorming defaults to noncanonical status.
+
+Movement into Canon requires an explicit Operator decision. Repetition, detailed discussion, repository placement, implementation, successful testing, or agent confidence do not independently create canonicity.
+
+During brainstorming, useful ideas should be challenged, falsified where possible, and classified according to the strongest status the evidence actually supports.

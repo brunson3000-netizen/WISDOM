@@ -24,3 +24,16 @@ Product, market, and curriculum decisions should be based on investigated facts 
 
 Conceptual understanding and practical action should be deliberately connected while remaining distinguishable.
 
+
+## C-005 — Research and brainstorming status lifecycle
+
+W.I.S.D.O.M. classifies research, brainstorming, design claims, and candidate project direction as **Theory**, **Provisional**, **Probational**, or **Canon**.
+
+- **Theory** records an explanatory idea, hypothesis, or conceptual possibility not yet strong enough for candidate adoption.
+- **Provisional** records a candidate that has survived meaningful initial challenge but remains unproven or unresolved.
+- **Probational** records a candidate deliberately being used, trialed, or observed to gather evidence.
+- **Canon** records direction explicitly adopted by the Operator.
+
+Brainstorming is noncanonical by default.
+
+Only an explicit Operator decision promotes material into Canon. Repetition, implementation, repository placement, successful testing, or agent confidence are not substitutes for adoption.
