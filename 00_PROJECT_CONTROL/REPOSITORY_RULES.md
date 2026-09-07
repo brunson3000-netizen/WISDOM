@@ -50,3 +50,13 @@ When material enters from another project, research thread, experiment, or exter
 A local commit records repository history.
 
 It does not imply remote publication, deployment, canonical promotion outside W.I.S.D.O.M., or authority over another project.
+
+## 9. Material conversation state must be captured before it can be lost
+
+**Canonical Operator principle, recorded 2026-09-06:** If something from conversation is materially worth future reliance, it must be durably captured in the W.I.S.D.O.M. repository before work advances far enough that it could be lost from conversation context.
+
+An agent with repository access is responsible for using that access to preserve material decisions, research findings, evidence, experiment results, incident lessons, task state, handoff state, open questions, and deferred matters that later work will depend on.
+
+Routine preservation may be filed as working or noncanonical material without case-by-case Operator approval. Preservation does not itself promote the material to canon. Canonical promotion and other separately reserved effects still require the authority applicable to those effects.
+
+If material that future work must rely on cannot be durably captured, the custody gap must be surfaced before relying on it beyond the current exchange.
