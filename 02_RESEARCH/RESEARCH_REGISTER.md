@@ -11,7 +11,7 @@
 | R-007 | Cross-project learning-history synthesis: S.W.A.R.M., G.A.M.E., S.P.A.R.K., W.I.S.D.O.M. | Active |
 | R-008 | Preserve validated state and focus new reasoning on unresolved change/failure | Active hypothesis |
 | R-009 | "Shenanigans" as a recurring pedagogical callout and vigilance device | Working theory / experiment |
-| R-010 | [T.C.G.L. and AI Engineering Governance Feedback Loop](TCGL_GOVERNANCE_LIFECYCLE_RESEARCH_2026-09-08.md) | Theory / nonbinding design; synthesis complete; authority decisions and empirical trials pending |
+| R-010 | [GAB, T.C.G.L. and AI Engineering Governance Feedback Loop](GAB_TCGL_INTEGRATED_RESEARCH_2026-09-08.md) | Theory / nonbinding synthesis; forward-promotion user gate clarified; empirical trials pending |
 
 ## Research discipline
 
@@ -19,6 +19,10 @@ The register tracks questions and evidence lanes, not adopted curriculum.
 
 In particular, R-009 does not establish "Shenanigans" as a course feature. It records the hypothesis for later evaluation.
 
-## R-010 — 2026-09-08 research closeout
+## R-010 — updated 2026-09-09 after Operator clarification
 
-Operator-defined sequence: Theory → Provisional → Probational → Canon. Provisional investigates without implementation; Probational observes bounded implementation. The research separates maturity, authorization, and actual activation, and preserves transition design, counterarguments, evidence requirements, experiment/tooling plans, curriculum applications, and three material Operator decisions. No TCGL delegation, trial, canon amendment, or curriculum policy has been activated. Initial findings and synthesis are preserved in the linked file's Git history. WISDOM is the authorized fallback destination because the shared research dump's exact location/readiness could not be verified. Later cross-project transfer must preserve provenance and target-project authority.
+The integrated research preserves GAB (Governance Autonomy Boundary), the five complementary decision routes, and the TCGL lifecycle. Agents may curate Theory → Provisional autonomously with justification and task-scoped provenance. Provisional → Probational requires explicit user authorization. The prior generic-envelope recommendation is superseded; the historical report now points to the corrected successor and immutable history. Approval for a specific trial covers its unchanged authorized execution, not new candidates or wider scope.
+
+The research distinguishes maturity, permission, and actual activation; separates judgment needs from authority needs; and records source comparisons, counterarguments, distributed-observer hypotheses, evidence/metrics, failure cases, a proposed pilot/tooling path, and the entire class-production chain. No operational trial, binding framework, or curriculum policy was activated. Some domain-specific command/aviation source comparisons remain limited by retrieval; effectiveness requires empirical testing.
+
+WISDOM remains the authorized fallback because the shared dump's destination/readiness could not be verified. Important clarifications were checkpointed before synthesis continued. Current synthesis commit: 1713e92255b82fe787b3af455f39cf8348ba4cb7. Later cross-project transfer must preserve provenance and target-project authority. No repeated clarification is needed for the explicit forward-promotion gate; concrete trials still require a reviewable plan and user authorization.
