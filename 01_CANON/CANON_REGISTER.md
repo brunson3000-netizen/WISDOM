@@ -24,3 +24,18 @@ Product, market, and curriculum decisions should be based on investigated facts 
 
 Conceptual understanding and practical action should be deliberately connected while remaining distinguishable.
 
+
+## C-005 — B.O.S.S.: Binding Origin of System Sovereignty
+
+**Status:** Canon  
+**Adopted:** 2026-09-09  
+**Scope:** W.I.S.D.O.M. project governance  
+**Authority:** Explicit human Operator instruction in the governance research thread.
+
+**B.O.S.S. — Binding Origin of System Sovereignty**
+
+> The BOSS is the terminal human authority and origin of all delegated governance authority. No agent, policy, subsystem, or derived authority supersedes the BOSS.
+
+Both the acronym/expansion and the quoted governance principle are explicitly canonized. BOSS identifies the terminal human authority referred to as the Operator in existing project records; it is not an agent role.
+
+This adoption records the exact principle requested. It does not canonize the surrounding GAB/TCGL research, experimental mechanisms, or curriculum candidates.
