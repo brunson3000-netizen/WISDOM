@@ -37,3 +37,7 @@ The parent will assess these against Luna's completed artifact; these are review
 ## Custody and next action
 
 Repository rules permit routine preservation. WISDOM remains the authorized fallback; this task does not establish the shared dump's readiness. Parent will preserve Luna's output with attribution, document independent findings and any corrections, and link the resulting research in the register. Canon and runtime policies stay unchanged.
+
+## Operator steering during execution
+
+Boss requested that Luna log potential governance issues encountered along the way only when pertinent or applicable to this task, and expressly said not to inspect everything. This instruction was delivered to the running agent. Issue records should identify the encountered observation, task relevance, possible consequence, and recommendation or uncertainty; this does not authorize a general governance audit or scope expansion.
