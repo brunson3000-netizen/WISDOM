@@ -125,3 +125,7 @@ This pass stops at its assigned investigation and review deliverables. No offlin
 Observed: one consolidated Luna assignment produced the rule, records, case analysis, course implications, and pertinent governance log without clarification round trips. Parent review found concentrated design defects that can be addressed in a single implementation block.
 
 Interpretation: the approach was workable for this assignment. Limitation: no fragmented-work comparator, measured total cost, or repeated trial establishes that consolidation is generally more efficient. The observation is preserved as research, with no maturity promotion or project-wide prescription.
+
+## Subsequent implementation — 2026-09-09
+
+Boss authorized proceeding end to end. The [offline prototype block](../06_EXPERIMENTS/TCGL_OFFLINE_V1/README.md) is now completed and backed up: recorder/validator/index, synthetic fixtures, 18 passing tests, execution receipts and candidate lesson materials. This supersedes the earlier statement that no offline tool had yet been implemented. No live policy or candidate maturity transition occurred. The [next-decision packet](../06_EXPERIMENTS/TCGL_OFFLINE_V1/REVIEW_AND_NEXT_DECISION.md) remains a proposal requiring Boss's explicit decision before lifting the earlier no-promotion limit for its scoped trial.
