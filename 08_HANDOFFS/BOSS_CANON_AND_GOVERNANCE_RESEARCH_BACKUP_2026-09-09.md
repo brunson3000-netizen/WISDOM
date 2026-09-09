@@ -32,3 +32,11 @@ Confirmed user direction: agents may autonomously curate Theory into nonbinding 
 Investigate the lightest useful selection/recording mechanism, how multiple tasks contribute evidence, and how duplicates and weak candidates are handled. Do not make every idea require the user's attention. Backward-transition and rejection powers are not inferred from permission for Theory → Provisional.
 
 The B.O.S.S. adoption is complete. No new operational experiment, general promotion mechanism, or finished curriculum was activated by it.
+
+## Starting-line agreement and proposed review — 2026-09-09
+
+Boss agreed with the proposed Theory → Provisional starting line: the agent can explain why an idea deserves closer investigation for its task, preserving its reason, evidence, uncertainties, and investigation question. This records agreement on the starting line; it does not claim canonical promotion of a complete procedure or authorization of an operational trial.
+
+Boss prefers the minimum model and effort sufficient for the result and suggested Fable or Astra if necessary. Proposed first pass: GPT-5.6 Luna at medium effort for a bounded critique. This is an engineering recommendation to test, not a measured minimum. [Official model catalog](https://developers.openai.com/api/docs/models) positions Luna for cost-sensitive workloads and lists medium effort; no task-specific comparative benchmark establishes sufficiency here.
+
+Next proposed work: draft a one-page selection rule and minimal record; challenge it with clear, weak, duplicate, contradictory, and out-of-scope examples; independently inspect the critique and revise; then implement the smallest record/validation mechanism once its behavior is settled. Escalate only unresolved authority or architecture issues to Astra, beginning at medium effort. No review agent or new experimental policy has been launched by this planning record.
