@@ -11,7 +11,7 @@
 | R-007 | Cross-project learning-history synthesis: S.W.A.R.M., G.A.M.E., S.P.A.R.K., W.I.S.D.O.M. | Active |
 | R-008 | Preserve validated state and focus new reasoning on unresolved change/failure | Active hypothesis |
 | R-009 | "Shenanigans" as a recurring pedagogical callout and vigilance device | Working theory / experiment |
-| R-010 | [GAB, T.C.G.L. and AI Engineering Governance Feedback Loop](GAB_TCGL_INTEGRATED_RESEARCH_2026-09-08.md) | Theory / nonbinding synthesis; forward-promotion user gate clarified; empirical trials pending |
+| R-010 | [GAB, T.C.G.L. and AI Engineering Governance Feedback Loop](GAB_TCGL_INTEGRATED_RESEARCH_2026-09-08.md) | Theory framework; task-local curation trial completed; governance efficacy unproven |
 
 ## Research discipline
 
@@ -38,3 +38,9 @@ Boss authorized one coherent Luna-medium investigation of Theory → Provisional
 ## R-010 — offline implementation completed, 2026-09-09
 
 [TCGL offline v1](../06_EXPERIMENTS/TCGL_OFFLINE_V1/README.md) now includes an implemented simulation-only recorder/index/validator, 15 synthetic cases, 18 passing tests, exact-input execution receipts, a candidate learner exercise and relevant issue log. Luna medium implemented the first version; parent review and tests corrected observed gaps. No actual TCGL promotion or live policy activation occurred. [Review and proposed next decision](../06_EXPERIMENTS/TCGL_OFFLINE_V1/REVIEW_AND_NEXT_DECISION.md) describes a bounded five-record live curation trial, which remains unapproved because Boss's no-promotion restriction still applies. Storage, structural checks and simulated case results do not establish governance efficacy, semantic curation quality or real human burden.
+
+## R-010 — approved task-local curation trial completed, 2026-09-09
+
+Boss explicitly authorized the previously proposed bounded live trial. [Authorization and start](../06_EXPERIMENTS/TCGL_TASK_TRIAL_2026-09-09/AUTHORIZATION_AND_START.md) records the plan, authority, source versions and scope. One pass selected [three task-local Provisional hypotheses](../06_EXPERIMENTS/TCGL_TASK_TRIAL_2026-09-09/CURATION_CARDS.md): agent observations as diagnostic leads, compact cards with shared provenance, and source-event attribution without false replication. The selection mechanism had Probational use for this task only and is now inactive after expiry. No selected hypothesis entered Probational implementation; no Canon changed.
+
+[Closeout](../06_EXPERIMENTS/TCGL_TASK_TRIAL_2026-09-09/CLOSEOUT.md): 3 minutes 25 seconds for the pass; three records, no per-card user intervention. Unsupported generalizations were excluded, and record-reading burden remains unresolved. These outcomes do not establish policy efficacy, comparative efficiency or model optimality. The earlier pending-approval entries are historical; the approved trial is completed, not still awaiting launch or implicitly renewed.
