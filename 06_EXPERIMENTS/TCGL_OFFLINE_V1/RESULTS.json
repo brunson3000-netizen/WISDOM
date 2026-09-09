@@ -1,0 +1,163 @@
+{
+  "mode": "simulation",
+  "generated_at": "2026-09-09T00:40:34.047138+00:00",
+  "python": "3.12.13",
+  "input_sha256": {
+    "tcgl_offline.py": "25f27b175347f9bbdb4481fc9a3b45e0a73d3f3a0926bdf7597e09b934a7f734",
+    "test_tcgl_offline.py": "fc18947a7a4b97c6a3da56e91d095746c4354b162314f94b599da64227cb376f",
+    "fixtures.json": "00b2f069ce8b0a759113b557d13009486c9465e7bd53e626ceb5e9b0994c95d5",
+    "example_card.json": "b95b4599117d68497374072865bc9ca4bf5ddda7e6a84b7f4820fc5dd54b6eef",
+    "CONTRACT.md": "ce11ff31ec4e27d398abd91c8fab102fe4c8e359beb3d411bc31eeecca13243b",
+    "evaluate.py": "c1652528191d332e6c420620ca1fa308aa13452d917160a86b4e211089b2c521"
+  },
+  "tests_run": 18,
+  "tests_successful": true,
+  "test_log": "test_arbitrary_json_types_fail_without_crashing (test_tcgl_offline.OfflineContract.test_arbitrary_json_types_fail_without_crashing) ... ok\ntest_cli_roundtrip_and_stale_expected_revision (test_tcgl_offline.OfflineContract.test_cli_roundtrip_and_stale_expected_revision) ... ok\ntest_competing_appends_have_one_winner (test_tcgl_offline.OfflineContract.test_competing_appends_have_one_winner) ... ok\ntest_complete_synthetic_fixture_matrix (test_tcgl_offline.OfflineContract.test_complete_synthetic_fixture_matrix) ... ok\ntest_duplicate_identity_and_revision_cannot_overwrite (test_tcgl_offline.OfflineContract.test_duplicate_identity_and_revision_cannot_overwrite) ... ok\ntest_history_preserved_and_same_timestamp_allowed (test_tcgl_offline.OfflineContract.test_history_preserved_and_same_timestamp_allowed) ... ok\ntest_hostile_evidence_is_preserved_as_data (test_tcgl_offline.OfflineContract.test_hostile_evidence_is_preserved_as_data) ... ok\ntest_index_selects_highest_revision_not_input_order (test_tcgl_offline.OfflineContract.test_index_selects_highest_revision_not_input_order) ... ok\ntest_invalid_records_cannot_create_a_store (test_tcgl_offline.OfflineContract.test_invalid_records_cannot_create_a_store) ... ok\ntest_malformed_cli_inputs_and_missing_store (test_tcgl_offline.OfflineContract.test_malformed_cli_inputs_and_missing_store) ... ok\ntest_missing_and_corrupt_stores_do_not_become_empty_success (test_tcgl_offline.OfflineContract.test_missing_and_corrupt_stores_do_not_become_empty_success) ... ok\ntest_new_candidate_cannot_ignore_expected_revision (test_tcgl_offline.OfflineContract.test_new_candidate_cannot_ignore_expected_revision) ... ok\ntest_read_and_index_do_not_change_store_bytes (test_tcgl_offline.OfflineContract.test_read_and_index_do_not_change_store_bytes) ... ok\ntest_revision_gap_parent_and_scope_errors_preserve_history (test_tcgl_offline.OfflineContract.test_revision_gap_parent_and_scope_errors_preserve_history) ... ok\ntest_shared_events_and_unresolved_links_are_visible (test_tcgl_offline.OfflineContract.test_shared_events_and_unresolved_links_are_visible) ... ok\ntest_stored_column_corruption_blocks_read_and_append (test_tcgl_offline.OfflineContract.test_stored_column_corruption_blocks_read_and_append) ... ok\ntest_unrelated_database_is_not_modified (test_tcgl_offline.OfflineContract.test_unrelated_database_is_not_modified) ... ok\ntest_valid_cli_card_is_not_semantic_or_authority_approval (test_tcgl_offline.OfflineContract.test_valid_cli_card_is_not_semantic_or_authority_approval) ... ok\n\n----------------------------------------------------------------------\nRan 18 tests in 0.609s\n\nOK\n",
+  "fixture_checks": [
+    {
+      "id": "single_observation",
+      "structurally_valid": true,
+      "expected_structural_validity": true,
+      "matches_expected": true,
+      "errors": [],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "novel_grounded_gap",
+      "structurally_valid": true,
+      "expected_structural_validity": true,
+      "matches_expected": true,
+      "errors": [],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "fluent_but_ungrounded",
+      "structurally_valid": true,
+      "expected_structural_validity": true,
+      "matches_expected": true,
+      "errors": [],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "duplicate_source_report",
+      "structurally_valid": true,
+      "expected_structural_validity": true,
+      "matches_expected": true,
+      "errors": [],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "contradictory_outcomes",
+      "structurally_valid": true,
+      "expected_structural_validity": true,
+      "matches_expected": true,
+      "errors": [],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "out_of_task",
+      "structurally_valid": true,
+      "expected_structural_validity": true,
+      "matches_expected": true,
+      "errors": [],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "instruction_in_source",
+      "structurally_valid": true,
+      "expected_structural_validity": true,
+      "matches_expected": true,
+      "errors": [],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "stale_claimed_grant",
+      "structurally_valid": true,
+      "expected_structural_validity": true,
+      "matches_expected": true,
+      "errors": [],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "resource_dependency",
+      "structurally_valid": true,
+      "expected_structural_validity": true,
+      "matches_expected": true,
+      "errors": [],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "missing_inquiry",
+      "structurally_valid": false,
+      "expected_structural_validity": false,
+      "matches_expected": true,
+      "errors": [
+        "card missing keys: inquiry"
+      ],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "unlabelled_evidence_absence",
+      "structurally_valid": false,
+      "expected_structural_validity": false,
+      "matches_expected": true,
+      "errors": [
+        "evidence.absence required when supporting is empty"
+      ],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "activation_field",
+      "structurally_valid": false,
+      "expected_structural_validity": false,
+      "matches_expected": true,
+      "errors": [
+        "card has extra keys: activate"
+      ],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "mixed_status",
+      "structurally_valid": false,
+      "expected_structural_validity": false,
+      "matches_expected": true,
+      "errors": [
+        "proposed_disposition invalid"
+      ],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "blank_duplicate_link",
+      "structurally_valid": false,
+      "expected_structural_validity": false,
+      "matches_expected": true,
+      "errors": [
+        "link_existing requires related_candidates"
+      ],
+      "semantic_judgment": "not_evaluated"
+    },
+    {
+      "id": "extra_nested_field",
+      "structurally_valid": false,
+      "expected_structural_validity": false,
+      "matches_expected": true,
+      "errors": [
+        "scope has extra keys"
+      ],
+      "semantic_judgment": "not_evaluated"
+    }
+  ],
+  "structural_fixture_check_seconds": 9.907300045597367e-05,
+  "retrieval_probe": {
+    "records": 2,
+    "unique_source_events": 1,
+    "E-1_reports": 2,
+    "unresolved_links": []
+  },
+  "limits": [
+    "Synthetic software checks only; no live maturity or authority changes.",
+    "Semantic labels were authored by the parent reviewer, not independently measured predictions.",
+    "Runtime is one local measurement, not human recording burden or comparative model cost.",
+    "No reference resolution, authenticated identity, budget enforcement, or tamperproof storage."
+  ]
+}
