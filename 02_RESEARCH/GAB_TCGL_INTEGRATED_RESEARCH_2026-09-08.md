@@ -4,6 +4,10 @@
 
 **Status: Theory / nonbinding framework proposal.** The user-defined meanings and authority boundaries below are controlling clarifications for this research. Mechanisms, evaluation plans, and teaching designs remain candidates. This document neither activates a Probational policy nor grants new permissions to downstream projects.
 
+## Canonical authority clarification — 2026-09-09
+
+The user is **Boss**. **B.O.S.S. — Binding Origin of System Sovereignty** and the terminal-human-authority principle are adopted as [Canon C-005](../01_CANON/CANON_REGISTER.md#c-005--boss-binding-origin-of-system-sovereignty). References to user authority or the human Operator in this research refer to Boss. This specific adoption does not promote the surrounding research framework or the unimplemented Theory → Provisional mechanism to canon.
+
 ## 1. Outcome, provenance, and correction
 
 Working objective: maximize useful autonomous work within authorized limits while minimizing avoidable human supervision, rework, and unapproved effects.
