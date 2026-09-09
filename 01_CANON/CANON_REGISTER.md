@@ -36,6 +36,6 @@ Conceptual understanding and practical action should be deliberately connected w
 
 > The BOSS is the terminal human authority and origin of all delegated governance authority. No agent, policy, subsystem, or derived authority supersedes the BOSS.
 
-Both the acronym/expansion and the quoted governance principle are explicitly canonized. BOSS identifies the terminal human authority referred to as the Operator in existing project records; it is not an agent role.
+Both the acronym/expansion and the quoted governance principle are explicitly canonized. **The user is Boss.** Boss is the name used for the user in this project. Existing references to the human Operator refer to that same user.
 
 This adoption records the exact principle requested. It does not canonize the surrounding GAB/TCGL research, experimental mechanisms, or curriculum candidates.
