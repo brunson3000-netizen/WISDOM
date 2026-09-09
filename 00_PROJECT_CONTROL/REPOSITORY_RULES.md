@@ -60,3 +60,7 @@ An agent with repository access is responsible for using that access to preserve
 Routine preservation may be filed as working or noncanonical material without case-by-case Operator approval. Preservation does not itself promote the material to canon. Canonical promotion and other separately reserved effects still require the authority applicable to those effects.
 
 If material that future work must rely on cannot be durably captured, the custody gap must be surfaced before relying on it beyond the current exchange.
+
+## 10. B.O.S.S. — terminal human governance authority
+
+See [Canon C-005](../01_CANON/CANON_REGISTER.md#c-005--boss-binding-origin-of-system-sovereignty): **B.O.S.S. — Binding Origin of System Sovereignty**. The adopted principle and its provenance are maintained in the canon register. Existing references to the human Operator identify that same terminal human governance authority.
