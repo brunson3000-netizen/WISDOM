@@ -32,6 +32,10 @@ Initial tests exposed a timestamp-validation defect; additional failures about s
 
 No wider project audit, private corpus ingestion, learner experiment, live authority check or policy amendment occurred.
 
+## Trial status update — 2026-09-09
+
+Boss explicitly approved the packet below. The [authorized task-local trial](../TCGL_TASK_TRIAL_2026-09-09/AUTHORIZATION_AND_START.md) completed one pass with [three Provisional selections](../TCGL_TASK_TRIAL_2026-09-09/CURATION_CARDS.md) and is now ended; see [closeout](../TCGL_TASK_TRIAL_2026-09-09/CLOSEOUT.md). No Canon adoption or renewal occurred. The following proposal text is preserved as the historical decision packet; its pending-approval wording describes the earlier state.
+
 ## Proposed next decision: a real, task-local trial
 
 **Not approved or started.** This packet is prepared because moving from simulation to actual curation would cross Boss's explicit “don't promote anything” limit. The offline software checks alone do not authorize it.
