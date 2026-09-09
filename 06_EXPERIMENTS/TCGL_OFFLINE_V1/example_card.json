@@ -1,0 +1,27 @@
+{
+  "idea": "A short permission reminder might reduce avoidable clarification.",
+  "task_anchor": "Synthetic task T-1: compare explanations of one unnecessary permission request, event E-1.",
+  "inquiry": "Would a clearer task grant explain the request? Compare the recorded grant and request offline.",
+  "expected_effects": {
+    "benefit": "Less reconstruction of task authority.",
+    "adverse": "A short reminder may omit important exceptions."
+  },
+  "evidence": {
+    "supporting": [
+      "fixture:E-1"
+    ],
+    "against": [],
+    "absence": null,
+    "uncertainty": "No evidence that the remedy works; unclear whether the prompt or tool caused the request.",
+    "source_event_ids": [
+      "E-1"
+    ]
+  },
+  "scope": {
+    "applies_to": "Synthetic task T-1 retrospective inquiry only",
+    "limits": "Synthetic material only; no policy activation or external access.",
+    "grant_ref": "fixture:offline-analysis-grant"
+  },
+  "related_candidates": [],
+  "proposed_disposition": "investigate"
+}
