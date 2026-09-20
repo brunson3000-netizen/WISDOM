@@ -57,6 +57,12 @@ Both external Project Backup volumes passed all weekly archive checksum manifest
 2026-W35 through 2026-W38. The corresponding manifests are byte-identical across the two
 volumes.
 
+A non-deleting checksum dry-run from the active primary AI source found 7,698 itemized
+differences to each older CURRENT mirror and 879 differences to the older active mirror.
+The dry-run reported additions and updates only; no deletion option was used and no target
+was modified. These differences include Git metadata and preserved untracked material, so
+they remain subject to explicit source/target selection before any write-sync.
+
 ## Recovery posture
 
 The closeout is backup-ready as an evidence package: repository identities, published refs,
