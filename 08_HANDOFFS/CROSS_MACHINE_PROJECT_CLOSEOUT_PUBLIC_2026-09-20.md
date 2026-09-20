@@ -45,6 +45,18 @@ changes and no upstream, and remains preserved without synchronization.
 - The older mirror sets remain evidence copies; their existence and valid bundles do not prove
   that they contain the newest active-primary AI commits.
 
+## Local preservation package
+
+Three projects without a clean GitHub-upstream proof were captured into a local-only,
+checksummed preservation package. Each package contains a complete Git bundle, a compressed
+working-tree snapshot, tracked-worktree/index patches, an untracked-file manifest, a receipt,
+and SHA-256 verification. The package was independently re-verified after creation. It was
+not published because it contains machine-local recovery material.
+
+Both external Project Backup volumes passed all weekly archive checksum manifests for
+2026-W35 through 2026-W38. The corresponding manifests are byte-identical across the two
+volumes.
+
 ## Recovery posture
 
 The closeout is backup-ready as an evidence package: repository identities, published refs,
