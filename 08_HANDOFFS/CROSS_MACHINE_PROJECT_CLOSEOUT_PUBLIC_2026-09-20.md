@@ -24,6 +24,18 @@ Status: bounded reconciliation evidence captured; divergent backup copies remain
   state therefore remain unverified.
 - A dirty NIM engineering worktree with no configured upstream remains preserved and unsynced.
 
+## Repository verification matrix
+
+The bounded live-ref check found the following clean repositories equal to their configured
+GitHub branch heads: FEDERATION, FORK, GAME, LabTOOLS, NIM usage-pulse-clean, S.W.A.R.M.-OS,
+S.P.A.R.K., SWARM-Universe, USAGE_PULSE, WISDOM, the sanitized closeout branch, and the
+standalone Universe Bible preservation branch.
+
+Two clean local copies were intentionally reported as unverified rather than guessed into
+alignment: the NIM LabTOOLS candidate has no upstream configured, and the S.W.A.R.M.-OS local
+bootstrap archive has no upstream configured. The separate NIM engineering worktree has local
+changes and no upstream, and remains preserved without synchronization.
+
 ## Recovery posture
 
 The closeout is backup-ready as an evidence package: repository identities, published refs,
