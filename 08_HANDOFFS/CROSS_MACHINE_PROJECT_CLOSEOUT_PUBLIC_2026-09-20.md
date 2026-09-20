@@ -19,6 +19,9 @@ Status: bounded reconciliation evidence captured; divergent backup copies remain
   overwritten or silently selected as canonical.
 - The external-drive SWARM copies agree with one another at the observed repository head,
   while preserving their untracked evidence.
+- A clean local WISDOM reconciliation worktree remains one commit ahead of its tracked remote
+  branch. That genuine difference is preserved locally and was not force-pushed, discarded, or
+  silently folded into the public handoff.
 - The available Windows-formatted media was bounded-scanned as archive storage; no live Windows
   project worktree was available for verification. Windows branch, worktree, and newer-file
   state therefore remain unverified.
