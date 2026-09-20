@@ -36,6 +36,15 @@ alignment: the NIM LabTOOLS candidate has no upstream configured, and the S.W.A.
 bootstrap archive has no upstream configured. The separate NIM engineering worktree has local
 changes and no upstream, and remains preserved without synchronization.
 
+## External recovery evidence
+
+- Both redundant external Git bundles were independently verified as valid complete-history
+  bundles containing the preserved SWARM refs.
+- Both Project Backup volumes contain the same bounded weekly archive set for weeks 35–38 of
+  2026, with per-week manifests and verification markers present.
+- The older mirror sets remain evidence copies; their existence and valid bundles do not prove
+  that they contain the newest active-primary AI commits.
+
 ## Recovery posture
 
 The closeout is backup-ready as an evidence package: repository identities, published refs,
