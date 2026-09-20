@@ -63,6 +63,11 @@ The dry-run reported additions and updates only; no deletion option was used and
 was modified. These differences include Git metadata and preserved untracked material, so
 they remain subject to explicit source/target selection before any write-sync.
 
+An additive timestamped mirror attempt was subsequently interrupted at Operator direction.
+Its partial destination was not cleaned up, resumed, overwritten, or treated as verified.
+The existing verified recovery sets remain the usable backup set; the partial copy is preserved
+as a separately documented evidence artifact for later review.
+
 ## Recovery posture
 
 The closeout is backup-ready as an evidence package: repository identities, published refs,
