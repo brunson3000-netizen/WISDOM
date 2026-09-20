@@ -53,6 +53,10 @@ working-tree snapshot, tracked-worktree/index patches, an untracked-file manifes
 and SHA-256 verification. The package was independently re-verified after creation. It was
 not published because it contains machine-local recovery material.
 
+Timestamped offline Git bundles were also created and verified for all 13 clean projects whose
+live GitHub refs were confirmed. These are local recovery artifacts; the source repositories
+and external-drive recovery sets were not altered.
+
 Both external Project Backup volumes passed all weekly archive checksum manifests for
 2026-W35 through 2026-W38. The corresponding manifests are byte-identical across the two
 volumes.
