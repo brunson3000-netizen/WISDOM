@@ -68,6 +68,11 @@ Its partial destination was not cleaned up, resumed, overwritten, or treated as 
 The existing verified recovery sets remain the usable backup set; the partial copy is preserved
 as a separately documented evidence artifact for later review.
 
+The other mounted legacy archive volumes were bounded-scanned read-only. They contain games,
+emulator/media archives, personal archives, or a RescueZilla disk image; no Git repository was
+found within the scan depth. They are not current project-sync targets, and their high capacity
+usage means no write or reclassification was attempted.
+
 ## Recovery posture
 
 The closeout is backup-ready as an evidence package: repository identities, published refs,
