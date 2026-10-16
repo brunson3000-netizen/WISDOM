@@ -1,8 +1,8 @@
 # Windows agent kit — source and identity
 
-**Version:** 1.0.0 (2026-10-03). The version names the release; the hashes below identify the exact content.
+**Version:** 1.2.0 (2026-10-16). The version names the release; the hashes below identify the exact content.
 
-This folder is a vendored copy of the common Windows agent kit. It is operational convention: it grants no authority, adopts no governance and changes no rule of the project that holds it. That project's own instructions govern wherever they differ.
+This folder is a vendored copy of the common Windows agent kit. It is operational convention: it grants no authority, adopts no governance and changes no rule of the project that holds it. That project's own instructions govern wherever they differ. `WINDOWS_EXECUTION_PROFILE.md` records the Operator's standing tool grants with their sources; their authority is the Operator's, not the kit's.
 
 | Question | Answer |
 |---|---|

@@ -2,6 +2,8 @@
 
 Own implementation, validation, repairs, authorized checkpointing and routine local coordination.
 
+Apply the shared deterministic strategy and named waiting procedure. Reuse valid evidence, preserve worthwhile recurring solutions within scope, and immediately report unresolved procedure failures or capability/authority limits to the architect with the required evidence. Do not use tool wrappers or peer requests to bypass a restriction.
+
 Read TASK.md, both status records, applicable project instructions and SHARED_AGENT_INSTRUCTIONS.md. The shared file defines startup, handoffs, evidence reuse, disputes, waiting, blocked exits and completion; follow those procedures without adding steps.
 
 Confirm your assigned workspace and latest pending action. Implement the authorized scope, gather applicable validation evidence and submit the frozen artifact for independent review.
